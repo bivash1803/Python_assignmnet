@@ -1,0 +1,44 @@
+,OrderDate,Region,Rep,Item,Units,Unit Cost,Total
+0,2019-01-06,East,Jones,Pencil,95.0,1.99,189.05
+1,2019-01-23,Central,Kivell,Binder,50.0,19.99,999.5
+2,2019-02-09,Central,Jardine,Pencil,36.0,4.99,179.64
+3,2019-02-26,Central,Gill,Pen,27.0,19.99,539.73
+4,2019-03-15,West,Sorvino,Pencil,56.0,2.99,167.44
+5,2019-04-01,East,Jones,Binder,60.0,4.99,299.4
+6,2019-04-18,Central,Andrews,Pencil,75.0,1.99,149.25
+7,2019-05-05,Central,Jardine,Pencil,90.0,4.99,449.1
+8,2019-05-22,West,Thompson,Pencil,32.0,1.99,63.68
+9,2019-06-08,East,Jones,Binder,60.0,8.99,539.4
+10,2019-06-25,Central,Morgan,Pencil,90.0,4.99,449.1
+11,2019-07-12,East,Howard,Binder,29.0,1.99,57.71
+12,2019-07-29,East,Parent,Binder,81.0,19.99,1619.19
+13,2019-08-15,East,Jones,Pencil,35.0,4.99,174.65
+14,2019-09-01,Central,Smith,Desk,2.0,125.0,250.0
+15,2019-09-18,East,Jones,Pen Set,16.0,15.99,255.84
+16,2019-10-05,Central,Morgan,Binder,28.0,8.99,251.72
+17,2019-10-22,East,Jones,Pen,64.0,8.99,575.36
+18,2019-11-08,East,Parent,Pen,15.0,19.99,299.85
+19,2019-11-25,Central,Kivell,Pen Set,96.0,4.99,479.04
+20,2019-12-12,Central,Smith,Pencil,67.0,1.29,86.43
+21,2019-12-29,East,Parent,Pen Set,74.0,15.99,1183.26
+22,2020-01-15,Central,Gill,Binder,46.0,8.99,413.54
+23,2020-02-01,Central,Smith,Binder,87.0,15.0,1305.0
+24,2020-02-18,East,Jones,Binder,4.0,4.99,19.96
+25,2020-03-07,West,Sorvino,Binder,7.0,19.99,139.93
+26,2020-03-24,Central,Jardine,Pen Set,50.0,4.99,249.5
+27,2020-04-10,Central,Andrews,Pencil,66.0,1.99,131.34
+28,2020-04-27,East,Howard,Pen,96.0,4.99,479.04
+29,2020-05-14,Central,Gill,Pencil,53.0,1.29,68.37
+30,2020-05-31,Central,Gill,Binder,80.0,8.99,719.2
+31,2020-06-17,Central,Kivell,Desk,5.0,125.0,625.0
+32,2020-07-04,East,Jones,Pen Set,62.0,4.99,309.38
+33,2020-07-21,Central,Morgan,Pen Set,55.0,12.49,686.95
+34,2020-08-07,Central,Kivell,Pen Set,42.0,23.95,1005.9
+35,2020-08-24,West,Sorvino,Desk,3.0,275.0,825.0
+36,2020-09-10,Central,Gill,Pencil,7.0,1.29,9.03
+37,2020-09-27,West,Sorvino,Pen,76.0,1.99,151.24
+38,2020-10-14,West,Thompson,Binder,57.0,19.99,1139.43
+39,2020-10-31,Central,Andrews,Pencil,14.0,1.29,18.06
+40,2020-11-17,Central,Jardine,Binder,11.0,4.99,54.89
+41,2020-12-04,Central,Jardine,Binder,94.0,19.99,1879.06
+42,2020-12-21,Central,Andrews,Binder,28.0,4.99,139.72
